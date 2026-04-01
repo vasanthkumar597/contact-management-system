@@ -1,21 +1,20 @@
-# Contact Management System
+# Hi 👋, I'm Vasanth
 
-A Python-based CLI application to manage contacts efficiently.
+💻 Aspiring Python Developer
+📚 Currently learning DSA
+🤖 Interested in AIML
 
-## Features
-- Add new contacts
-- Update existing contacts
-- Delete contacts
-- Search contacts easily
+## 🚀 Skills
 
-## Technologies Used
-- Python
-- JSON
+* Python
+* OOP
+* Git & GitHub
 
-## How to Run
-1. Download the project
-2. Run the Python file:
-   python contact_manager.py
+## 📂 Projects
 
-## Author
-Vasanth 
+* Contact Management System
+
+## 📫 Connect with me
+
+* LinkedIn: https://linkedin.com/in/yourname
+
